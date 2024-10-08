@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +36,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Clock */
+.clockHeader{
+  text-align: center;
+  font-size:30px;
+  margin-bottom:5px;
+}
+.clockTime{
+  text-align: center;
+  font-size:30px;
+  font-weight: 500;
+  margin:0;
 }

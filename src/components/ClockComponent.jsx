@@ -1,8 +1,10 @@
-export default function DisplayClock({ time }) {
+import '../App.css';
+
+export default function DisplayClock( props ) { 
   return (
     <div>
-      <h2 style={{textAlign:'center', marginBottom:'3px'}}>Current Time</h2>
-      <p style={{textAlign:'center',marginTop:'3px', fontSize:'25px'}}>{time}</p>
+      <h2 className="clockHeader">Current Time</h2>
+      <p className='clockTime'>{props.time}tiidy</p>
     </div>
   );
 }
