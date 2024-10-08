@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Inlämningsuppgift - Javascript 3 - Clock 
+
+#### Projekt på utbildningen:
+[Front end webbutvecklare](https://gritacademy.se/front-end-webbutvecklare/) 400 YH-poäng - [Grit Academy](https://gritacademy.se/)  
+(2023-2025)
+
+#### Kurs
+FE23 | JavaSript 2
+
+___
+
+# React readme
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
