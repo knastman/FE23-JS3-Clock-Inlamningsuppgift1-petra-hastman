@@ -12,7 +12,6 @@ function CurrentTime() {
       setTime(new Date());
   }, 1000);
   return () => clearInterval(id);}, []);
-d
   return time;
 }
 
