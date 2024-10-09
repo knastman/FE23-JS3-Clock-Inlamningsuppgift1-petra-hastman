@@ -1,4 +1,4 @@
-# Inlämningsuppgift - Javascript 3 - Clock 
+# Inlämningsuppgift - Javascript 3 React - Clock 
 
 #### Projekt på utbildningen:
 [Front end webbutvecklare](https://gritacademy.se/front-end-webbutvecklare/) 400 YH-poäng - [Grit Academy](https://gritacademy.se/)  
@@ -11,7 +11,7 @@ ___
 
 ## Uppgiften
 
-### Applikation
+### Applikation "Clock"
 Skapa en applikation med React. Den skall bestå av minst två komponenter. 
 Den första komponenten "App" skall innehålla en state-variabel som innehåller den nuvarande tiden. Denna state-variabel måste uppdateras automatiskt varje sekund. 
 Den andra komponenten, "Clock", skall acceptera ett attribut (props) med ett klockslag (alternativt ett datum och tid) - tiden skall
